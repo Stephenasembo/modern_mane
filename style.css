@@ -1,13 +1,23 @@
 header {
-
+    background-color: #1F2937;
 }
 
-.links {
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
 
+a {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .content {
 
+}
+
+.hero {
+    background-color: #1F2937;
 }
 
 .hero.decription {
@@ -15,15 +25,19 @@ header {
 }
 
 .hero_main_text {
-
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
 }
 
 .hero_secondary_text {
-
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 button {
-
+    background-color: #3882F6;
+    color: white;
 }
 
 .info {
@@ -31,17 +45,23 @@ button {
 }
 
 .info h3 {
-    
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
 }
 
 .testimony {
-
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
 }
 
 .cta {
-
+    background-color: #3882F6;
 }
 
 footer {
-
+    background-color: #1F2937;
+    color: white;
 }
