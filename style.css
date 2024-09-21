@@ -68,6 +68,13 @@ button {
 }
 .info div {
     display: flex;
+    gap: 16px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 .testimony {
