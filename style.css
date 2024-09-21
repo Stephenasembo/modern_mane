@@ -12,6 +12,13 @@ body {
 header {
     background-color: #1F2937;
     display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
 }
 
 .logo {
@@ -22,6 +29,7 @@ header {
 a {
     font-size: 18px;
     color: #E5E7EB;
+    text-decoration: none;
 }
 
 .content {
